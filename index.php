@@ -39,11 +39,6 @@ define("SITE", $siteurl);
     ================================================== -->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-<style>
-    #top > section.s-pageheader.s-pageheader--home > div > div > div > div.featured__column.featured__column--big > div > div > h1 > a{
-        background: <?=$aciklama?>;
-    }
-</style>
 </head>
 
 <body id="top">
