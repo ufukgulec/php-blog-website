@@ -1,3 +1,6 @@
+<?php
+
+?>
 <section class="s-pageheader s-pageheader--home">
 
     <header class="header">

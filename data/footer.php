@@ -1,3 +1,6 @@
+<?php
+
+?>
 <footer class="s-footer">
 
 <div class="s-footer__main">

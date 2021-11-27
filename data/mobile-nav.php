@@ -1,3 +1,6 @@
+<?php
+
+?>
 <nav class="header__nav-wrap">
 
                 <h2 class="header__nav-heading h6">Site Navigation</h2>
