@@ -1,3 +1,6 @@
+<?php
+
+?>
 <section class="s-content">
         
         <div class="row masonry-wrap">
