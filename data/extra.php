@@ -1,3 +1,6 @@
+<?php
+
+?>
 <section class="s-extra">
 
         <div class="row top">
